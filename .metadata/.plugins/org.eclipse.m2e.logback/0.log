@@ -1,0 +1,9 @@
+2023-04-13 18:04:39,847 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-13 18:04:59,235 [Worker-33: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: it.epicode:godfatherpizza:0.0.1-SNAPSHOT @ C:\Users\cloud\eclipse-workspace\esercizioBackendW5D2\Soluzione\GodFatherPizza\pom.xml.
+2023-04-13 18:05:00,249 [Worker-33: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /godfatherpizza/src/main/java
+2023-04-13 18:05:00,250 [Worker-33: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /godfatherpizza/src/main/resources
+2023-04-13 18:05:00,251 [Worker-33: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /godfatherpizza/src/main/resources
+2023-04-13 18:05:00,251 [Worker-33: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /godfatherpizza/src/test/java
+2023-04-13 18:05:00,521 [Worker-33: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2023-04-13 18:06:53,606 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-14 09:09:29,879 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
